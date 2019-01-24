@@ -1,0 +1,9 @@
+{
+  "name": "finddit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "redditapi": "^1.0.1"
+  }
+}
